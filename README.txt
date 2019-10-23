@@ -1,0 +1,1 @@
+The Jupyter Notebook contains a function that graphs row data from the AITA survey results based on selected column values.  The same function has been copied into a command line program which can be used if the Jupyter Notebook cannot be used.
